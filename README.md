@@ -9,12 +9,13 @@ I engineer secure, high-performance authentication workflows for large-scale fin
 ---
 
 ## 🧠 About Me  
-- 🔐 Designed 20+ authenticators & 10+ authentication flows (QR login, push login, FIDO, SSE, Socket.io)  
-- ⚡ Improved auth speed by **40%** across European banking apps  
-- 🛠 Built secure digital-signing & vendor-verification miniapps  
-- 🧩 Love debugging, designing scalable systems & writing clean code  
-- 🐳 DevOps-friendly: CI/CD, Docker, containerized deployments  
-- 🎯 **Groot of the Quarter (Q3 2024)**  
+- 🧑‍💻 Backend dev who spends 40% of his time coding and 60% debugging the code he wrote yesterday
+- 🔐 Accidentally became an authentication expert after building so many login flows that I now dream in Keycloak
+- 🐳 I use Docker because “it works on my machine” wasn’t scalable
+- 😌 I write clean code… until a deadline approaches
+- 🚀 Love building systems that make users happy and developers slightly less frustrated
+- 😭 Currently in an exclusive relationship with Java, but occasionally cheating with JavaScript
+- 🤝 Will refactor your code for fun (and judge you silently)
 
 ---
 
@@ -51,40 +52,6 @@ I engineer secure, high-performance authentication workflows for large-scale fin
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush-Karthik&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
 </div>
-
----
-
-## 🚀 Highlight Projects
-
-### ✔ **Signer Miniapp – Digital Document Signing**
-- Automated E2E signing with **Flowable Engine**  
-- Handles **1000+ signatures/month**  
-- Integrated **QES (Qualified Electronic Signature)**  
-- Reduced manual coordination by **70%**
-
-### ✔ **Schufa Miniapp – Vendor Verification System**
-- Serves **1000+ users**  
-- Integrated multiple commercial APIs  
-- Optimized backend to deliver responses in **~2 seconds**
-
-### ✔ **WhatsApp → Email Automation**
-- NodeJS + Twilio + Nodemailer  
-- Auto-sends WhatsApp content as emails  
-- Reduced document-sharing time by **70%**
-
----
-
-## 🏆 Achievements  
-- 🥇 **Groot of the Quarter (Q3 2024)**  
-- 🥈 **2nd Place – National Codeathon**  
-- 🎖 **PES Hackathon Finalist**  
-
----
-
-## 🎓 Education  
-**B.E. Computer Science & Engineering**  
-Sri Krishna College of Technology (2020–2024)  
-CGPA: **8.85**
 
 ---
 
